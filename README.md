@@ -2,10 +2,10 @@
 
 # Easy way of making music player
 
-*Coding Platform*
+# *Coding Platform*
 Java
 
-*Permissions*
+# *Permissions*
  
 Takes permission for reading music files from the phone storage using dexter library.
 
@@ -16,11 +16,6 @@ Android Marshmallow includes a new functionality to let users grant or deny perm
 The official API is heavily coupled with the ``Activity`` class.
 Dexter frees your permission code from your activities and lets you write that logic anywhere you want.
 
-
-Screenshots
------------
-
-![Demo screenshot][1]
 
 Usage
 -----
@@ -63,7 +58,7 @@ Dexter.withActivity(this)
 	}).check();
 ```
 
-*UI (User Interface)*
+# *UI (User Interface)*
 Simple and easy created UI,best for beginners.
 
 # Hope you like it. 😊
