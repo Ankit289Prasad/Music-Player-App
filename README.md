@@ -1,11 +1,11 @@
 # *Music-Player-App*
 
-# Easy way of making music player
+## Easy way of making music player
 
-# *Coding Platform*
+### *Coding Platform*
 Java
 
-# *Permissions*
+### *Permissions*
  
 Takes permission for reading music files from the phone storage using dexter library.
 
@@ -58,7 +58,7 @@ Dexter.withActivity(this)
 	}).check();
 ```
 
-# *UI (User Interface)*
+### *UI (User Interface)*
 Simple and easy created UI,best for beginners.
 
 # Hope you like it. 😊
